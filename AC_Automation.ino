@@ -2,8 +2,8 @@
 #include "ESP8266WiFi.h"
 #include "WifiUdp.h"
 #include<IRremote.h>
-const char *ssid = "Shanna";
-const char *pass = "pv@1968_";
+const char *ssid = "****";
+const char *pass = "****";
 #define AC_ON 0x118008;
 #define AC_OFF 0x4500188;
 #define HSwing_ON 0x6B46408;
